@@ -24,9 +24,9 @@ print("10%: Internet connection established")
 
 # URL of the zip file
 #url 1 is excel tools
-url1 = 'https://a5e7a071-50e9-4065-9e69-0e27847342bf.usrfiles.com/archives/a5e7a0_af85a2425169414bb8137e5293762320.zip'
+url1 = ''
 #url 2 is excel file
-url2 = 'https://a5e7a071-50e9-4065-9e69-0e27847342bf.usrfiles.com/archives/a5e7a0_e01a22d609334c9dace3536f791993cd.zip'
+url2 = ''
 
 # Directory to extract the zip files
 extract_dir1 = 'C:/LHITS Tools'
